@@ -31,7 +31,7 @@ Starring:
 - SASS
 
 ## Development ⌨️
-was First and foremost as it was a teamwork we choose a Scrum Master within us and made a list of task and issues to follow. This list was organized by priorities ❗ and two sprints.  📅
+First and foremost as it was a teamwork we choose a Scrum Master within us and made a list of task and issues to follow. This list was organized by priorities ❗ and two sprints.  📅
 After it we went in for the code, working with some branches to prevent issues. 
 
 ## Want to clone my repository? 🐑🐑
