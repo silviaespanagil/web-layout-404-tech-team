@@ -1,35 +1,47 @@
-# Esta no es la página que buscabas...pero sí tu equipo
+# Pure HTML and CSS Website Layout
+## _404_
+¡Hola mundo!
 
-¡Hola! Este es el equipo 404 para el proyecto del módulo 1 en el que ponemos en práctica todo el conocimiento aprendido durante este primer mes sobre maquetación con HTML y CSS.
+This is a website layout developed only  using HTML and CSS. The layout is design to code and it was developed altogether with other four other wonderful people -you can check their profiles in the deployment.✨
 
-El grupo 404 está integrado por:
-Silvia España
-Yosiris Mariñez
-Maribel Torres
-Beatriz Mendoza
+<img src="https://user-images.githubusercontent.com/81619759/125755526-8a4cfb04-eda4-4970-86a4-78c548e13a88.png" width="500"/>
 
-Antes de comenzar con la maquetación hemos creado un repositorio en GitHub, y una vez creado y clonado hemos añadido la template del Starter Kit de Adalab y lo hemos publicado con el GitHub Pages.
-http://beta.adalab.es/project-promo-m-module-1-team-8/
+## Initial Requirements 📋
 
-¡Y ahora vamos a maquetar!
+- Code must follow designer instructions
+- Use [Adalab Web Starter Kit](https://github.com/Adalab/adalab-web-starter-kit):A template that allowed us to use a local host, SASS, HTML Template Engines and gulp.
+- Use  of HTML Partials
+- Styles with SASS
+- Use of grid and flex
+- There is a counter of how many times the user has tried to guess the number.
+- Use Formspree for the contact form
 
-Por un lado:
+## Extra features 🔥
+- Add transitions or animations to the buttons
 
-* Hemos usado una estructura ordenada de ficheros y carpetas, los cuales están enlazados con sus respectivos ficheros.
 
-En cuanto a la maquetación con HTML:
+## Tech 💻
+Starring:
+[Adalab Web Starter Kit](https://github.com/Adalab/adalab-web-starter-kit)  - An amazing template that allowed me to use a local host, SASS, HTML Template Engines and gulp. For more information you may visit [the Kit repository](https://github.com/Adalab/adalab-web-starter-kit)
 
-* Todo el código está perfectamente indentado.
-* La sintáxis y semántica está estructurada desde nuestro criterio, de una manera fácil de entender.
 
-Respecto a la maquetación con CSS/Sass:
+### Built with 🔨
+- Visual Code Studio: as code editor
+- HTML
+- SASS
 
-* Todo el código está perfectamente indentado.
-* Hemos dividio el Sass en varios partials para que nos resulte más cómodo y ordenado, y los hemos enlazado correctamente al fichero principal.
-* Hemos creado otro fichero a parte para las variables, en las cuales hemos añadido la paleta de colores y la tipografía que se pide para luego enlazarlas comodamente en cada clase.
-* La mayor parte de la página web esta maquetada con flex y la parte del footer con grid.
-* Con el objetivo de dotar de dinamismo a la página y hacerlo más interactiva hemos añadido algunas transiciones y animaciones a los botones, los cuales, están enlazados a rutas relativas y absolutas.
+## Development ⌨️
+was First and foremost as it was a teamwork we choose a Scrum Master within us and made a list of task and issues to follow. This list was organized by priorities ❗ and two sprints.  📅
+After it we went in for the code, working with some branches to prevent issues. 
 
-# Agradecimientos
+## Want to clone my repository? 🐑🐑
 
-A Iván, Dayana y Miguel por todo el esfuerzo que han hecho por enseñarnos algo completamente nuevo para nosotras.
+Go for it! And if you make something pretty, please show me
+
+## Do you have any idea? ✏️
+
+I'm an student and as I stated before am learning Javascript right now, so, if  you have any idea that I could develope please tell me so and I will try to.
+
+## License
+
+MIT
